@@ -1,0 +1,65 @@
+/**
+ * Columns Shortcode stylesheet
+ */
+
+/* columns container */
+.columns, .mceContentBody .columns {
+ 	position: relative;
+ 	clear: both;
+ 	width: 100%;
+	display: block;
+	margin: 15px 0;
+}
+
+/* single column */
+.column, .mceContentBody .column {
+	margin: 5px 0;
+	float: left;
+	display: block;
+	margin-left: 1%;
+	margin-right: 1%;
+}
+.column.first, .mceContentBody .column.first {
+	margin-right: 1%;
+	margin-left: 0%;
+}
+.column.last, .mceContentBody .column.last {
+	margin-left: 1%;
+	margin-right: 0%;
+}
+
+
+/* two columns */
+.column.two, .mceContentBody .column.two {
+	width: 48%;
+}
+
+/* three columns */
+.column.three, .mceContentBody .column.three {
+	width: 32%;
+}
+
+/* four columns */
+.column.four, .mceContentBody .column.four {
+	width: 23.5%;
+}
+
+/* five columns */
+.column.five, .mceContentBody .column.five {
+	width: 18.4%;
+}
+
+/* two-three */
+.column.two-three, .mceContentBody .column.two-three {
+	width: 64%;
+}
+
+/* three-four */
+.column.three-four, .mceContentBody .column.three-four {
+	width: 70.5%;
+}
+
+/* four-five */
+.column.four-five, .mceContentBody .column.four-five {
+	width: 73.6%;
+}

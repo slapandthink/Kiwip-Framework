@@ -1,0 +1,7 @@
+/* Meta Box Table */
+.kiwip_helper { width: 100%; }
+.kiwip_helper .kiwip_table { border: none; padding: 0; width: 100%; }
+.kiwip_helper .kiwip_table th{ font-weight: normal; text-align: left; width: 30%; min-width: 100px; padding: 5px 0; vertical-align: top; }
+.kiwip_helper .kiwip_table th label{ font-weight: bold; }
+.kiwip_helper .kiwip_table th .description{ font-size: 10px; font-style: italic; }
+.kiwip_helper .kiwip_table td{ width: 70%; }

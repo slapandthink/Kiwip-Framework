@@ -1,0 +1,12 @@
+.welcome-panel .kiwip-badge {
+    float: left;
+    width: 25%;
+}
+
+.kiwip.welcome-panel-content{
+	float: left;
+	width: 75%;
+}
+.kiwip.welcome-panel-content .about-description {
+	margin: 0;
+}
