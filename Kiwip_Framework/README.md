@@ -21,6 +21,7 @@ Kiwip Framework provides many things, and has been developed to be extensible:
 - Many extra metaboxes field type (and easily add yours)
 - Support of the Wordpress AJAX uploader (with the library)
 - ...
+
 ### Theme Options
 - Add and manage options page easily
 - Icons support
@@ -52,6 +53,7 @@ I hope on day, I will publish a simple documentation for using this Wordpress Fr
 ### Installation
 To install the Kiwip Framework, you have just to upload the Kiwip Framework folder into your Wordpress Theme Folder (wp-content/themes/YOURT_HEME/).
 To configure ans set the Framework, just copy the 'Kiwip-Framework-options.php' into your Wordpress Theme Folder (wp-content/themes/YOURT_HEME/) and include it in your function.php.
+
 ```php
 /**
  * @file functions.php
